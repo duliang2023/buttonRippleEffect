@@ -31,7 +31,7 @@ button {
 
 button .circle {
   position: absolute;
-  background-color: #fff;
+  background-color: #40f71c;
   width: 100px;
   height: 100px;
   border-radius: 50%;
